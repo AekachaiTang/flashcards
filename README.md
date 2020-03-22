@@ -15,8 +15,7 @@ Clone the repository, change directories, and use npm or yarn to install the dep
 
 ```bash
 $ git clone https://github.com/AekachaiTang/flashcards
-$ cd mobile-flashcards
-$ yarn
+$ npm install
 ```
 
 ## Usage
